@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevakVashisht
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python and testing its different libraries
-- 💞️ I’m looking to collaborate on Python projects
+- 🌱 I’m currently learning React js and advance web dev
+- 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me Instagram->@devaksharma24
